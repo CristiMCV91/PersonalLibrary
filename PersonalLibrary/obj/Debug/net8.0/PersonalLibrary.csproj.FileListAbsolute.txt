@@ -1,0 +1,14 @@
+D:\OneDrive\OneDrive - Dynamic Instruments SRL\IT-School\PersonalLibrary\PersonalLibrary\bin\Debug\net8.0\PersonalLibrary.exe
+D:\OneDrive\OneDrive - Dynamic Instruments SRL\IT-School\PersonalLibrary\PersonalLibrary\bin\Debug\net8.0\PersonalLibrary.deps.json
+D:\OneDrive\OneDrive - Dynamic Instruments SRL\IT-School\PersonalLibrary\PersonalLibrary\bin\Debug\net8.0\PersonalLibrary.runtimeconfig.json
+D:\OneDrive\OneDrive - Dynamic Instruments SRL\IT-School\PersonalLibrary\PersonalLibrary\bin\Debug\net8.0\PersonalLibrary.dll
+D:\OneDrive\OneDrive - Dynamic Instruments SRL\IT-School\PersonalLibrary\PersonalLibrary\bin\Debug\net8.0\PersonalLibrary.pdb
+D:\OneDrive\OneDrive - Dynamic Instruments SRL\IT-School\PersonalLibrary\PersonalLibrary\obj\Debug\net8.0\PersonalLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\OneDrive - Dynamic Instruments SRL\IT-School\PersonalLibrary\PersonalLibrary\obj\Debug\net8.0\PersonalLibrary.AssemblyInfoInputs.cache
+D:\OneDrive\OneDrive - Dynamic Instruments SRL\IT-School\PersonalLibrary\PersonalLibrary\obj\Debug\net8.0\PersonalLibrary.AssemblyInfo.cs
+D:\OneDrive\OneDrive - Dynamic Instruments SRL\IT-School\PersonalLibrary\PersonalLibrary\obj\Debug\net8.0\PersonalLibrary.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - Dynamic Instruments SRL\IT-School\PersonalLibrary\PersonalLibrary\obj\Debug\net8.0\PersonalLibrary.dll
+D:\OneDrive\OneDrive - Dynamic Instruments SRL\IT-School\PersonalLibrary\PersonalLibrary\obj\Debug\net8.0\refint\PersonalLibrary.dll
+D:\OneDrive\OneDrive - Dynamic Instruments SRL\IT-School\PersonalLibrary\PersonalLibrary\obj\Debug\net8.0\PersonalLibrary.pdb
+D:\OneDrive\OneDrive - Dynamic Instruments SRL\IT-School\PersonalLibrary\PersonalLibrary\obj\Debug\net8.0\PersonalLibrary.genruntimeconfig.cache
+D:\OneDrive\OneDrive - Dynamic Instruments SRL\IT-School\PersonalLibrary\PersonalLibrary\obj\Debug\net8.0\ref\PersonalLibrary.dll
