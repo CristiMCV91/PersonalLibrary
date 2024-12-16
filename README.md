@@ -7,9 +7,9 @@ Built using C#, it provides a comprehensive set of features for organizing, filt
 The application use hardcoded data as demo purpose, but this ca be upgraded to read/write data in JSON files or database.
 
 ---
-![Personal Library - Console UI](resource/Personal%20Library%20-%20Console%20UI.png)
+![Personal Library - Console UI](Pictures%20and%20Diagram/Personal%20Library%20-%20Console%20UI.png)
 ---
-![Personal Library - Show Details](resource/Personal%20Library%20-%20Show%20Details.png)
+![Personal Library - Show Details](Pictures%20and%20Diagram/Personal%20Library%20-%20Show%20Details.png)
 
 ## Features
 
@@ -51,13 +51,17 @@ The application use hardcoded data as demo purpose, but this ca be upgraded to r
 ```
 PersonalLibrary
 ├── PersonalLibrary           # Main project folder
-│   ├── resource              # Folder with pictures for documentation and program diagram
 │   ├── Book.cs               # Book class
 │   ├── PersonalLibrary.cs    # PersonalLibrary class
 │   ├── Program.cs            # Entry point
 │   ├── Utils.cs              # Utilities class
-│   ├── README.md             # Readme file
-├── #
+│
+├── PersonalLibrary.sln       # Solution fIle for start the project
+├── Pictures and Diagram      # Folder with pictures for documentation and program diagram
+│   │ 
+│   ├── Personal Library - Working Diagram - rev.7.pdf
+│ 
+├── README.md                 # Readme file
 ```
 
 ---
